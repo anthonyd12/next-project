@@ -1,0 +1,16 @@
+.titleChange{
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    background-color: purple;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    transition: 0.4s all ease-out;
+}
+.titleChange:hover{
+    width: 70vw;
+    background-color: rgb(110, 80, 110);
+    cursor: pointer;
+
+}

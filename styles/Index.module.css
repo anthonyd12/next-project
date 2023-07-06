@@ -1,0 +1,15 @@
+.title01{
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    background-color: red;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    transition: 0.4s all ease-out;
+}
+.title01:hover{
+    width: 70vw;
+    background-color: rgb(255, 134, 134);
+
+}

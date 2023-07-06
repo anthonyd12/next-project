@@ -1,0 +1,15 @@
+.titleAbout{
+    width: 50vw;
+    text-align: center;
+    margin: auto;
+    background-color: yellow;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    transition: 0.4s all ease-out;
+}
+.titleAbout:hover{
+    width: 70vw;
+    background-color: rgb(255, 255, 135);
+    cursor: pointer;
+}
